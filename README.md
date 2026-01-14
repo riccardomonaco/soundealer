@@ -68,7 +68,7 @@ The project follows a separation of concerns to ensure scalability:
 ### 1. Installation
 ```bash
 # Clone the repository
-git clone [https://github.com/your-username/soundealer.git](https://github.com/your-username/soundealer.git)
+git clone [https://github.com/riccardomonaco/soundealer.git](https://github.com/riccardomonaco/soundealer.git)
 
 # Enter the directory
 cd soundealer
