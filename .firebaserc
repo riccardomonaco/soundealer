@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "sampler-8acd6"
+  },
+  "targets": {
+    "sampler-8acd6": {
+      "hosting": {
+        "soundealer-app": [
+          "soundealer"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
