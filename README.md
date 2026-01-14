@@ -98,17 +98,26 @@ npm run dev
 
 ## How to use
 
-### Select samples from soundbanks/local files and drag and drop them into the player
+### 1. Load audio
 
+Select samples from soundbanks/local files and drag and drop them into the player.
 <img width="1919" height="945" alt="image" src="https://github.com/user-attachments/assets/a6ea2d55-fbd9-44ff-a8ab-da03a5fff470" />
 
-### Highlight regions, drag and drop floppy disks to apply effects
+### 2. Manipulate audio
 
+Highlight regions, drag and drop floppy disks to apply effects.
 <img width="1919" height="945" alt="image" src="https://github.com/user-attachments/assets/02a8eac0-18fb-4709-901b-f82f68fc43f8" />
 
-### Draw EQ curve by holding and dragging mouse pointer over the EQ section
+### 3. Adjust EQ
 
+Draw EQ curve by holding and dragging mouse pointer over the EQ section.
 <img width="1064" height="620" alt="image" src="https://github.com/user-attachments/assets/abb295df-0ebc-4b97-ac84-87790ad2eebd" />
+
+### 4. Save/Export
+
+Export audio file or save it in the desired soundbank, using the **save** and **download** buttons.
+<img width="1919" height="944" alt="image" src="https://github.com/user-attachments/assets/774413bc-718e-4a9d-bf19-256f31b6ffca" />
+
 
 ---
 
