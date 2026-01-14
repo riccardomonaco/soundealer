@@ -54,7 +54,7 @@ The sampler utilizes a flexible signal chain: `Source -> Preview FX -> 10-Band E
 
 ## Software Architecture
 
-The project follows a separation of concerns to ensure scalability:
+The project follows an architectural separation to ensure scalability:
 
 * **`AudioPlayer.js`**: The central class managing the audio node graph, region events, and Wavesurfer integration.
 * **`AudioUtils.js`**: The DSP class containing mathematical logic for distortion curves, 16-bit PCM WAV conversion, and buffer slicing.
